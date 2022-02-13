@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+.body {
+  background-color: #c2c2a3; }
+
+.footerColor .listas .logoRedes {
+  width: 60px;
+  height: 50px;
+  margin: 20px;
+  padding: 0px 6px;
+  border-radius: 50%;
+  transition: transform 0.8s;
+  margin-bottom: 20px; }
+
+#menu {
+  background-color: #adad85; }
+  #menu .logo {
+    margin-left: 10px;
+    width: 100px; }
+  #menu .nav-item {
+    padding: 10px; }
+    #menu .nav-item .nav-link {
+      color: #ffffffef;
+      font-size: 20px; }
+      #menu .nav-item .nav-link:hover {
+        background-color: #ffbb99; }
+
+.main {
+  background-color: #c2c2a3; }
+  .main .carousel-inner {
+    max-height: 39rem; }
+  .main .tituloTexto h1 {
+    font-family: Georgia, "Times New Roman", Times, serif; }
+    .main .tituloTexto h1 .colorTitulo {
+      color: #0080ff; }
+  .main .textoInferior h3 {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    text-decoration: underline; }
+
+.footerColor {
+  background-color: #adad85; }
+  .footerColor .listas img:hover {
+    transform: scale(1.2); }
+  .footerColor .copyColor {
+    background-color: #00000033; }
+
+.mainNosotros .tituloTexto {
+  font-family: Georgia, "Times New Roman", Times, serif; }
+
+.mainNosotros .imagenesNosotros {
+  width: 400px;
+  height: 350px;
+  padding: 10px;
+  border-radius: 10%; }
+
+.mainServicios .cardSeccion {
+  border: none; }
+
+.mainServicios img {
+  height: 300px;
+  width: 100%; }
+
+.mainServicios .tituloTexto {
+  font-family: Georgia, "Times New Roman", Times, serif; }
+
+.mainGaleria .tituloTexto {
+  font-family: Georgia, "Times New Roman", Times, serif; }
+
+.mainGaleria .imagenesGaleria {
+  margin-bottom: 10px; }
+  .mainGaleria .imagenesGaleria img {
+    padding: 10px; }
+    .mainGaleria .imagenesGaleria img:hover {
+      transform: scale(1.1); }
+
+.mainContacto .tituloTexto {
+  font-family: Georgia, "Times New Roman", Times, serif; }
+
+.mainContacto .colorFormulario {
+  background-color: #c3c388; }
+
+.mainContacto .datos a {
+  text-decoration: none; }
+  .mainContacto .datos a .datosMapa {
+    color: #000000; }

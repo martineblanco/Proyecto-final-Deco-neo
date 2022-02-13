@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    background-color: #c2c2a3;
+}
+
+// VARIABLES
+@import './variables/colores';
+@import './variables/extends';
+@import './variables/mixin';
+@import './variables/fuentes';
+
+
+// IMPORTACIONES
+@import './header-footer/header';
+@import './secciones/index';
+@import './header-footer/footer';
+
+// SECCIONES
+@import './secciones/nosotros';
+@import './secciones/servicios';
+@import './secciones/galeria';
+@import './secciones/contacto';

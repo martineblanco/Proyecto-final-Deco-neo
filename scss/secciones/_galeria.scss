@@ -1,0 +1,15 @@
+.mainGaleria{
+    .tituloTexto{
+        font-family: $tituloTextos;      
+    }
+    .imagenesGaleria{
+        margin-bottom: 10px;
+        img{
+            padding: 10px;
+            &:hover{
+                transform: scale(1.1);
+            }  
+        }
+    }
+}
+

@@ -1,0 +1,9 @@
+// MIXIN
+
+@mixin styleNav ($blanco, $tamanioLetra, $colorLinks) {
+    color:$blanco;
+    font-size: $tamanioLetra;
+        &:hover{
+            background-color: $colorLinks;
+        }
+}

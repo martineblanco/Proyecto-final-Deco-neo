@@ -1,0 +1,25 @@
+.main{
+    background-color: $colorBody;
+
+    .carousel-inner {
+        max-height: 39rem;
+    }
+    
+    .tituloTexto{
+        h1{
+            font-family: $tituloTextos;
+            .colorTitulo{
+                color:$colorTitulo;
+            }
+        }
+    }
+    .textoInferior{
+        h3{
+            font-family: $tituloTextos;
+            text-decoration: underline;
+        }
+    }
+}
+
+
+

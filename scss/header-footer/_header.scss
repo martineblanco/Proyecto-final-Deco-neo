@@ -1,0 +1,17 @@
+#menu{
+    background-color:$colorNavbar;
+       
+    .logo{
+        margin-left: 10px;
+        width: 100px;
+    }
+
+    .nav-item{
+        padding: 10px;
+        .nav-link{
+            @include styleNav (#ffffffef, 20px, $colorLinks);
+        }  
+    
+    }
+
+}

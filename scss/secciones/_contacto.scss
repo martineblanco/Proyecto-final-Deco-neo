@@ -1,0 +1,21 @@
+.mainContacto{
+    .tituloTexto{
+        font-family: $tituloTextos;      
+    }
+    .colorFormulario{
+        background-color: $colorFormulario;
+    }
+
+    .datos a{  
+        text-decoration: none;
+        .datosMapa{
+            color: $colorDatosmapa;
+        }
+      }
+}
+
+
+
+
+
+

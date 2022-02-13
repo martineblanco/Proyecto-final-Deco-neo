@@ -1,0 +1,23 @@
+.footerColor{
+    background-color: $colorFooter;
+
+    .listas{
+
+        .logoRedes{ 
+            @extend %estiloLogosfooter;
+        }
+
+        img{
+            &:hover{
+                transform: scale(1.2);
+            }
+        }
+
+    }
+  
+    .copyColor{
+        background-color: $colorCopy;
+    }
+
+}
+
