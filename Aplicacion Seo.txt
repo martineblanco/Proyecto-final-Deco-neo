@@ -7,6 +7,7 @@
 5- Aplicacion para el encabezado del h1 utilicé el texto “ En Deco-neo lo tenemos muy claro; apostamos por la sencillez y lo natural. ¡Porque lo auténtico es el nuevo lujo!”. (siguiendo la jerarquia de titulo)
 6- Aplicacion a los titulos de la seccion index serifa mientras que a los textos de lectura se aplico otro estilo.
 7- Aplicacion a la organizacion de los archivos de mi proyecto
+8- Aplique mapa de mi proyecto Deco-neo para el servidor o navegador a partir de la organizacion de los archivos
 
 // SECCION NOSOTROS
 1- Aplicacion de la etiqueta meta name keywords, en el cual agregué las palabras clave que acompañarán a las páginas de mi sitio en la seccion nosotros: "Deco-neo, quienes somos, experiencia, decoracion, profesionales, proyecto, diseño, necesidades".
@@ -16,6 +17,7 @@
 5- Aplicacion para el encabezado del h1 utilicé el texto “¿Que es Deco-neo y Quienes somos?”. (siguiendo la jerarquia de titulo)
 6- Aplicacion a los titulos de la seccion nosotros serifa mientras que a los textos de lectura se aplico otro estilo.
 7- Aplicacion a la organizacion de los archivos de mi proyecto
+8- Aplique mapa de mi proyecto Deco-neo para el servidor o navegador a partir de la organizacion de los archivos
 
 // SECCION SERVICIO
 1- Aplicacion de la etiqueta meta name keywords, en el cual agregué las palabras clave que acompañarán a las páginas de mi sitio en la seccion servicios: "Deco-neo, ofrecer, servicios, diseño, optimizar, asesorarte, detalle, objetivo, tendencias".
@@ -25,6 +27,7 @@
 5- Aplicacion para el encabezado del h1 utilicé el texto “¿Que podemos ofrecer?”. (siguiendo la jerarquia de titulo)
 6- Aplicacion a los titulos de la seccion Servicios serifa mientras que a los textos de lectura se aplico otro estilo.
 7- Aplicacion a la organizacion de los archivos de mi proyecto
+8- Aplique mapa de mi proyecto Deco-neo para el servidor o navegador a partir de la organizacion de los archivos
 
 // SECCION GALERIA
 1- Aplicacion de la etiqueta meta name keywords, en el cual agregué las palabras clave que acompañarán a las páginas de mi sitio en la seccion galeria: "Deco-neo, galeria, fotografias, Diseños, interiores, exteriores, Livings, Habitaciones, Patios interiores, Cocinas".
@@ -34,6 +37,7 @@
 5- Aplicacion para el encabezado del h1 utilicé el texto “Diseños de interiores y exteriores”. (siguiendo la jerarquia de titulo)
 6- Aplicacion a los titulos de la seccion Galeria serifa mientras que a los textos de lectura se aplico otro estilo.
 7- Aplicacion a la organizacion de los archivos de mi proyecto
+8- Aplique mapa de mi proyecto Deco-neo para el servidor o navegador a partir de la organizacion de los archivos
 
 // SECCION CONTACTO
 1- Aplicacion de la etiqueta meta name keywords, en el cual agregué las palabras clave que acompañarán a las páginas de mi sitio en la seccion contacto: "Deco-neo, Contactenos, contacto, Encuentrenos, Telefono, Direccion, email, formulario".
@@ -43,6 +47,7 @@
 5- Aplicacion para el encabezado del h1 utilicé el texto “Contactenos”. (siguiendo la jerarquia de titulo)
 6- Aplicacion a los titulos de la seccion Contacto serifa mientras que a los textos de lectura se aplico otro estilo.
 7- Aplicacion a la organizacion de los archivos de mi proyecto
+8- Aplique mapa de mi proyecto Deco-neo para el servidor o navegador a partir de la organizacion de los archivos
 
 
 

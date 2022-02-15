@@ -1,6 +1,8 @@
-.main{
+
+.main {
     background-color: $colorBody;
 
+    
     .carousel-inner {
         max-height: 39rem;
     }
@@ -18,6 +20,10 @@
             font-family: $tituloTextos;
             text-decoration: underline;
         }
+    }
+
+    .galeriaIndex {
+        margin: 0;
     }
 }
 

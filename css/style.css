@@ -39,6 +39,8 @@
   .main .textoInferior h3 {
     font-family: Georgia, "Times New Roman", Times, serif;
     text-decoration: underline; }
+  .main .galeriaIndex {
+    margin: 0; }
 
 .footerColor {
   background-color: #adad85; }
