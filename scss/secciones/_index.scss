@@ -24,6 +24,12 @@
 
     .galeriaIndex {
         margin: 0;
+
+        .colorSecciones{
+            color: $colorSecciones;
+            text-decoration: none;
+            font-weight: bold;
+        }
     }
 }
 
